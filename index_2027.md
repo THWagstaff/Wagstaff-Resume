@@ -6,7 +6,7 @@ title: Thomas Wagstaff Resume
 
 
 <div id="webaddress">
-<a href="thwagstaff@byui.edu">datascience@byui.edu</a>
+<a href="thwagstaff@byui.edu">thwagstaff@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 	Launched a Student Ran food business
 
 
-## Related Experience
+
 
 ### Internships
 
@@ -35,47 +35,18 @@ __Data Research Intern__, Rexburg, ID
 - Work in a team to present findings to client and change research methods to their needs
 
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2020 - April 2028`
 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+`September 2020 - Current`
+__Agency Manager__, Soapbox Agency
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Manage a 30-40 member creative agency including 5 different departments and project management
+- Approve and gave feedback for assets created
+- Analyze client’s social media to conduct social media audits, competitor analyses, compile reports and recommendations to be presented to the client 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
